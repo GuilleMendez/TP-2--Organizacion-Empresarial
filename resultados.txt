@@ -1,0 +1,27 @@
+Resultados: 
+A continnuacion voy a exhibir 2 tipos de resultado. El primero es sin mas un copy paste del resultado de la ejecucion del codigo, para corroborar el correcto funcionamiento del mismo:
+=== Indicadores de Ventas 2024 ===
+Ventas totales del año: $1,812,114.00
+Día con mayor venta: 2024-03-20 ($8,960.00)
+
+=== Ventas por mes ===
+Mes        |   Ventas ($)
+-------------------------
+2024-01    | $  149,987.00
+2024-02    | $  136,051.00
+2024-03    | $  155,495.00
+2024-04    | $  160,865.00
+2024-05    | $  150,351.00
+2024-06    | $  139,237.00
+2024-07    | $  146,260.00
+2024-08    | $  156,214.00
+2024-09    | $  173,024.00
+2024-10    | $  127,380.00
+2024-11    | $  152,739.00
+2024-12    | $  164,511.00
+
+El cual vemos que contiene las ventas por mes detalladas, el dia con mayor venta del año, con su dia y monto, y las ventas totales anuales.
+
+Luego, como segunda muestra de resultados, adjunto link a reporte de Jira, con las actividades y procesos realizados:
+
+https://guillermomendez.atlassian.net/jira/software/projects/ADV/boards/2/reports/burnup?atlOrigin=eyJpIjoiOWMwZGFmYzc1ZjY5NGFjN2I3M2NkZDcwNzI0ZDc5MGYiLCJwIjoiaiJ9
