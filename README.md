@@ -1,8 +1,3 @@
-Alumno: Mendez Guillermo Joaquin
-Trabajo Práctico: Gestión Colaborativa, Control de Versiones y
-Organización Empresarial (Git, GitHub y Jira)
-Institución: Universidad Tecnológica Nacional - Tecnicatura Universitaria
-
 
 En este trabajo, el alumno elige uno de los escenarios de proyectos disponibles, para ejecutar un programa cumpliendo con los requerimientos tecnicos establecidos, imcluyendo la gestion de tareas en Jira, el control de versiones con Git, la colaboracion mediantes Github y la documentacion del proyecto. El escenario elegido fue el siguiente:
 
